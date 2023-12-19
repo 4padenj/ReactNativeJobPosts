@@ -1,13 +1,12 @@
-# Expo Router Example
+# React Native Jobs App
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+Learning the basics of React Native including:
+- Views and Components
+- Expo Router and Build Tools
+- State, Props, and Hooks
 
-## 🚀 How to use
+  
 
-```sh
-npx create-expo-app -e with-router
-```
+## 🚀 Jobs App
 
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+The App will have basic navigation, scrollable fields, a simple & elegant UI, and make calls to an external API. 
